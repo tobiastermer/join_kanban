@@ -1,3 +1,8 @@
+body {
+    font-family: 'Inter';
+    overflow: hidden;
+}
+
 /* Styling for the title element */
 .title {
     font-size: 73px;
